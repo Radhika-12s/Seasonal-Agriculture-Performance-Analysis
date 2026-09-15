@@ -187,7 +187,7 @@ Based on the analysis performed in the notebook:
 * **NumPy**
 * **Matplotlib**
 * **Seaborn**
-* **Google Colab / Jupyter Notebook**
+* **Google Colab**
 
 ---
 
@@ -197,22 +197,21 @@ Based on the analysis performed in the notebook:
 Seasonal-Agriculture-Performance-Analysis/
 │
 ├── README.md
-├── Seasonal_Agriculture_Performance_Data_Analytics.ipynb
+├── Seasonal_Agriculture_Performance_Analysis.ipynb
 ├── seasonal_agriculture_performance_dataset.csv
 ├── Major Project_Seasonal Agriculture Performance Analysis.pdf
-└── Seasonal_Agriculture_Performance_Analysis_Presentation.pptx
+└── VOIS_Major_Project_PPT_Submission.pptx
 ```
 
 ---
 
 ## ▶️ How to Run the Project
 
-1. Download or open the Jupyter Notebook.
-2. Upload the dataset file:
-   `seasonal_agriculture_performance_dataset.csv`
-3. Open the notebook in **Google Colab** or **Jupyter Notebook**.
-4. Run the cells sequentially.
-5. Review the generated statistical outputs and visualizations.
+1. Open the `.ipynb` notebook in **Google Colab**.
+2. Upload the `seasonal_agriculture_performance_dataset.csv` file to the Colab environment.
+3. Run the notebook cells sequentially.
+4. Review the generated statistical outputs, tables, and visualizations.
+5. Use the analysis and findings presented in the notebook for reference.
 
 ---
 
@@ -225,7 +224,7 @@ The analysis can be extended in the future by:
 * Performing time-series analysis using multi-year agricultural records.
 * Studying additional crop-specific and regional patterns.
 * Developing interactive dashboards for easier exploration.
-* Applying predictive analytics or machine-learning techniques in a future extension of the project.
+* Applying predictive analytics or machine-learning techniques as a future extension of the project.
 * Integrating real-time agricultural and weather information.
 
 ---
